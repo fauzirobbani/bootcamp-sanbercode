@@ -1,9 +1,9 @@
 # bootcamp-sanbercode
 
-Test Case & Test Scenario - website (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) :
+Test Case & Test Scenario - website (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) :
  - https://bit.ly/3PpCE6X
 
-Selenium Python Automation Testing – website (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) :
+Selenium Python Automation Testing – website (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) :
  - Video Testing: 
    - PIM : https://bit.ly/3LebkG9
    - Leave : https://bit.ly/3Et8gCs
