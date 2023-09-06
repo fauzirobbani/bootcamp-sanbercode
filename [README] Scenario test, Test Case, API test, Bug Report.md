@@ -5,8 +5,8 @@ Test Case & Test Scenario - website (https://opensourcedemo.orangehrmlive.com/w
 
 Selenium Python Automation Testing – website (https://opensourcedemo.orangehrmlive.com/web/index.php/auth/login) :
  - Video Testing: 
-   1. https://bit.ly/3LebkG9 (PIM)
-   2. https://bit.ly/3Et8gCs (Leave)
+   - PIM : https://bit.ly/3LebkG9
+   - Leave : https://bit.ly/3Et8gCs
 
 Bug Report – website (https://my-appventure.herokuapp.com/) :
 - https://bit.ly/3sJvC49
